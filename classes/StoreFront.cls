@@ -1,5 +1,8 @@
 public with sharing class StoreFront {
 
+// Added method for git testing - sprint 1.0
+    public String testing { get; set; }
+
     public String message { get; set; }
     public PageReference shop() {
         message = 'You bought: ';
