@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>IT</label>
+            <name>IT</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Operations</label>
+            <name>Operations</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Consumer Services</label>
+                <name>Consumer_Services</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Lottery Hotline</label>
+                <name>Lottery_Hotline</name>
+            </dataCategory>
+            <dataCategory>
+                <label>G2</label>
+                <name>G2</name>
+            </dataCategory>
+            <label>Support</label>
+            <name>Support</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Finance</label>
+            <name>Finance</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Compliance</label>
+                <name>Compliance</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Investigations</label>
+                <name>Investigations</name>
+            </dataCategory>
+            <label>Security</label>
+            <name>Security</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Business Group</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>Hospitality Network</label>
+                    <name>Hospitality_Network</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>Big Lotto</label>
+                    <name>Big_Lotto</name>
+                </dataCategory>
+                <label>Lottery Games / Products</label>
+                <name>Lottery_Games_Products</name>
+            </dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>Lotto Express</label>
+                    <name>Lotto_Express</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>Retailer Hub</label>
+                    <name>Retailer_Hub</name>
+                </dataCategory>
+                <label>Lottery Systems / Applications</label>
+                <name>Lottery_Systems_Applications</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Lottery Security / Compliance</label>
+                <name>Lottery_Security_Compliance</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Lottery Hardware</label>
+                <name>Lottery_Hardware</name>
+            </dataCategory>
+            <label>Lottery</label>
+            <name>Lottery</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>eSports</label>
+                    <name>eSports</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>eBingo</label>
+                    <name>eBingo</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>ePoker</label>
+                    <name>ePoker</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>eCasino</label>
+                    <name>eCasino</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>eLotto</label>
+                    <name>eLotto</name>
+                </dataCategory>
+                <label>eGaming Games / Products</label>
+                <name>eGaming_Games_Products</name>
+            </dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>Mobile</label>
+                    <name>Mobile</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>PC</label>
+                    <name>PC</name>
+                </dataCategory>
+                <label>eGaming Systems / Applications</label>
+                <name>eGaming_Systems_Applications</name>
+            </dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>eGaming FINTRAC</label>
+                    <name>eGaming_FINTRAC</name>
+                </dataCategory>
+                <label>eGaming Security / Compliance</label>
+                <name>eGaming_Security_Compliance</name>
+            </dataCategory>
+            <label>eGaming</label>
+            <name>eGaming</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>Slots</label>
+                    <name>Slots</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>Tables</label>
+                    <name>Tables</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>BC Gold Encore</label>
+                    <name>BC_Gold_Encore</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>Bingo</label>
+                    <name>Bingo</name>
+                </dataCategory>
+                <label>Casino / CGC Games / Products</label>
+                <name>Casino_CGC_Games_Products</name>
+            </dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>GMS</label>
+                    <name>GMS</name>
+                </dataCategory>
+                <dataCategory>
+                    <label>CasinoLink</label>
+                    <name>CasinoLink</name>
+                </dataCategory>
+                <label>Casino / CGC Systems / Applications</label>
+                <name>Casino_CGC_Systems_Applications</name>
+            </dataCategory>
+            <dataCategory>
+                <dataCategory>
+                    <label>Casino / CGC FINTRAC</label>
+                    <name>Casino_CGC_FINTRAC</name>
+                </dataCategory>
+                <label>Casino / CGC Security / Compliance</label>
+                <name>Casino_CGC_Security_Compliance</name>
+            </dataCategory>
+            <label>Casino / CGC</label>
+            <name>Casino_CGC</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Freedom of Information</label>
+                <name>Freedom_of_Information</name>
+            </dataCategory>
+            <dataCategory>
+                <label>GameSense</label>
+                <name>GameSense</name>
+            </dataCategory>
+            <dataCategory>
+                <label>bclc.com</label>
+                <name>bclc_com</name>
+            </dataCategory>
+            <label>Corporate</label>
+            <name>Corporate</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Channel Groups</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

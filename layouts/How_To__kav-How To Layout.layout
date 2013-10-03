@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <customLabel>false</customLabel>
+        <detailHeading>false</detailHeading>
+        <editHeading>false</editHeading>
+        <label>Information</label>
+        <layoutColumns>
+            <layoutItems>
+                <field>Situation__c</field>
+            </layoutItems>
+            <layoutItems>
+                <field>Resolution__c</field>
+            </layoutItems>
+            <layoutItems>
+                <field>Internal_Links__c</field>
+            </layoutItems>
+            <layoutItems>
+                <field>Support_Response__c</field>
+            </layoutItems>
+        </layoutColumns>
+        <style>OneColumn</style>
+    </layoutSections>
+</Layout>
